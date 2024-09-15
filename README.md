@@ -1,0 +1,1 @@
+#"A sleek Amazon clone for seamless online shopping experience."
